@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2b98301c-db0b-4f9f-bf99-c3c8f11b653f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lookup/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/lookup/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lookup/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/lookup/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lookup/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/lookup/views.py" afterDir="false" />
     </list>
@@ -80,7 +81,8 @@
       <updated>1581563511055</updated>
       <workItem from="1581563512816" duration="2213000" />
       <workItem from="1581645364580" duration="4178000" />
-      <workItem from="1581651578649" duration="366000" />
+      <workItem from="1581651578649" duration="437000" />
+      <workItem from="1581733599506" duration="4389000" />
     </task>
     <servers />
   </component>
@@ -96,9 +98,9 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="24" y="27" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1581651263868" />
-    <state x="107" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1581651591557">
+    <state x="107" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1581733599905">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="107" y="166" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1581651591557" />
+    <state x="107" y="166" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1581733599905" />
   </component>
 </project>
